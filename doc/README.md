@@ -1,8 +1,10 @@
 # ACE COMBAT
 
 ## Instalacion
-Ejecutar: python src/app.py
+Requiere Python 3.9. Ejecutar: python3 src/app.py
 
 ## Uso
 Version base del proyecto.
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+## Creditos
+Equipo rama-3
