@@ -1,7 +1,7 @@
 # ACE COMBAT
 
 ## Instalacion
-Ejecutar: python src/app.py
+Instalar dependencias: pip install -r requirements.txt
 
 ## Uso
 Version base del proyecto.
