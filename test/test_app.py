@@ -1,1 +1,2 @@
-print("test de la app")
+def test_main():
+    assert True
